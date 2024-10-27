@@ -1,0 +1,2 @@
+print("Shop is open");
+
